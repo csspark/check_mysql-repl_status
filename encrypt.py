@@ -1,7 +1,7 @@
 ﻿#!/usr/bin/python
 # -*- coding:utf-8 -*-
 """
-jastme encrypt password
+encrypt password
 """
 def encrypt(key, s): 
     b = bytearray(str(s).encode("gbk")) 
