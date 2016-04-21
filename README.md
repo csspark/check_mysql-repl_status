@@ -1,2 +1,2 @@
 # check_mysql-repl_status
-监测mysql主从复制的状态
+监测mysql主从复制的状态，并采用第三方加密模块encrypt，对连接mysql的密码进行加密
